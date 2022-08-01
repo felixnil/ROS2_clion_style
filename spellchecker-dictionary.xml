@@ -19,11 +19,13 @@
       <w>odometry</w>
       <w>processings</w>
       <w>quaterniond</w>
+      <w>radtan</w>
       <w>reproject</w>
       <w>reprojection</w>
       <w>templ</w>
       <w>undist</w>
       <w>undistort</w>
+      <w>undistorting</w>
       <w>undistortion</w>
       <w>unrectified</w>
       <w>usbl</w>
