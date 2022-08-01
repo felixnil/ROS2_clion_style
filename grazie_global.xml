@@ -5,6 +5,7 @@
         <option name="suppressed">
           <set>
             <option value="Point2f" />
+            <option value="we inverse" />
           </set>
         </option>
       </SuppressingContext>

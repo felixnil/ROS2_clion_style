@@ -3,6 +3,7 @@
     <words>
       <w>bilinear</w>
       <w>bools</w>
+      <w>cerr</w>
       <w>clahe</w>
       <w>coeffs</w>
       <w>cout</w>
@@ -14,6 +15,7 @@
       <w>imgs</w>
       <w>imshow</w>
       <w>inlier</w>
+      <w>inliers</w>
       <w>isometry</w>
       <w>jacobian</w>
       <w>keypoints</w>
@@ -25,7 +27,11 @@
       <w>radtan</w>
       <w>reproject</w>
       <w>reprojection</w>
+      <w>rvec</w>
+      <w>solvepnp</w>
       <w>templ</w>
+      <w>traj</w>
+      <w>tvec</w>
       <w>undist</w>
       <w>undistort</w>
       <w>undistorting</w>
