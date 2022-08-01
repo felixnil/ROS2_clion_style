@@ -5,6 +5,9 @@
       <w>bools</w>
       <w>clahe</w>
       <w>coeffs</w>
+      <w>cout</w>
+      <w>disp</w>
+      <w>endl</w>
       <w>ensta</w>
       <w>epipolar</w>
       <w>ifremer</w>
@@ -30,8 +33,11 @@
       <w>unrectified</w>
       <w>usbl</w>
       <w>vect</w>
+      <w>vects</w>
       <w>waitkey</w>
+      <w>xleft</w>
       <w>xxxxx</w>
+      <w>yleft</w>
     </words>
   </component>
 </application>
