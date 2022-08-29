@@ -147,4 +147,11 @@
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
+  <tool name="Colcon build" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="colcon" />
+      <option name="PARAMETERS" value="build --cmake-args -DCMAKE_EXPORT_COMPILE_COMANDS=ON -D USING_OPENCV_CUDA=ON" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/vpvl_ws" />
+    </exec>
+  </tool>
 </toolSet>
