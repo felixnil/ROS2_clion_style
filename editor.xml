@@ -5,10 +5,20 @@
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
   </component>
   <component name="InlayHintsSettings">
-    <option name="disabledLanguages">
+    <option name="disabledHintProviderIds">
       <set>
-        <option value="ObjectiveC" />
+        <option value="ObjectiveC.oc.type.hints" />
       </set>
     </option>
+    <option name="lastViewedProviderKeyId" value="ObjectiveC.parameter.hints.old" />
+    <settingsMapElement>
+      <ObjectiveC.oc.type.hints>
+        <ClionClangTypeHintSettings>
+          <option name="showDeducedReturnTypes" value="false" />
+          <option name="showForLambdas" value="false" />
+          <option name="showForVariables" value="false" />
+        </ClionClangTypeHintSettings>
+      </ObjectiveC.oc.type.hints>
+    </settingsMapElement>
   </component>
 </application>
