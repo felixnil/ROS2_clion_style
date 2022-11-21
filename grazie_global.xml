@@ -6,6 +6,7 @@
           <set>
             <option value="Point2f" />
             <option value="we inverse" />
+            <option value="cv2eigen" />
           </set>
         </option>
       </SuppressingContext>
