@@ -14,6 +14,7 @@
       <w>epipolar</w>
       <w>ifremer</w>
       <w>imgs</w>
+      <w>imread</w>
       <w>imshow</w>
       <w>inlier</w>
       <w>inliers</w>
@@ -23,6 +24,8 @@
       <w>kpts</w>
       <w>matchings</w>
       <w>nilius</w>
+      <w>nolintbegin</w>
+      <w>nolintend</w>
       <w>odometry</w>
       <w>overlaping</w>
       <w>processings</w>
