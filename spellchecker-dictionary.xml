@@ -37,8 +37,10 @@
       <w>reprojection</w>
       <w>rvec</w>
       <w>solvepnp</w>
+      <w>spdlog</w>
       <w>templ</w>
       <w>traj</w>
+      <w>trigo</w>
       <w>tvec</w>
       <w>undist</w>
       <w>undistort</w>
