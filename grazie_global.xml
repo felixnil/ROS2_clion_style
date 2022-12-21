@@ -7,6 +7,7 @@
             <option value="Point2f" />
             <option value="we inverse" />
             <option value="cv2eigen" />
+            <option value="Isometry3d" />
           </set>
         </option>
       </SuppressingContext>
