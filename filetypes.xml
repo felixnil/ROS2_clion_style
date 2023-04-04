@@ -1,5 +1,6 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
+    <ignoreFiles list="*.pyc;*.pyo;*.rbc;*.yarb;*~;.*;CONTRIBUTING.md;CVS;LICENSE;README.md;__pycache__;_svn;cmake_commands.sh;cmake_commands_build_all.sh;deps.repos;log*.txt;nohup.out;vssver.scc;vssver2.scc" />
     <extensionMap>
       <mapping ext="idl" type="PLAIN_TEXT" />
     </extensionMap>
